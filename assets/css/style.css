@@ -9,11 +9,11 @@ header{
     padding: 0px 40px 0px 25px;
 }
 
-h1{
+a{
     font-size: 19px;
     text-decoration: underline;
     float: left;
-    cursor: pointer;
+    color: black;
 }
 h2{
     display: flex;
@@ -24,6 +24,10 @@ h2{
 
 #questions button{
     display: block;
+}
+
+#homePage{
+    text-align: center;
 }
 
 h3{
@@ -48,12 +52,34 @@ button{
     transition-property: all;
 }
 
-button :hover{
-color: black;
+article{
+    padding-top: 20px;
+    border-top: 2px red;
+}
+
+button:hover{
+background-color: black;
 }
 
 p{
     display: flex;
     justify-content: center;
     font-size: 16px;
+}
+
+aside{
+display: flex;
+}
+
+aside input{
+border: 3px, black;
+height: 24px;
+}
+
+aside button{
+    font-size: 14px;
+    height: 14px;
+    padding: 0;
+    width: 100px;
+    border-radius: 2px;
 }
