@@ -14,7 +14,7 @@ This quiz will test your knownledge on Marine core and you can learned fun fact 
 ![Render](./assets/demo/demo.gif)
 
 ## Link
-[Password Generator](https://github.com/NickN4/Javascript-Quiz.git)
+[Marine Core Quiz](https://nickn4.github.io/Javascript-Quiz/)
 
 ## License
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
